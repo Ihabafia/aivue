@@ -1,0 +1,31 @@
+{
+  "name": "aivue-blog-evaluator",
+  "version": "1.0.0",
+  "description": "AI-powered blog post evaluator using 5 different LLMs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "blog",
+    "evaluator",
+    "vue",
+    "inertia",
+    "laravel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@inertiajs/vue3": "^1.0.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9",
+    "vue": "^3.3.4"
+  }
+}
